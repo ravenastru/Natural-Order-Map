@@ -1,6 +1,6 @@
 # Natural-Order-Map
 
-| Level | Name | Color | Element | Elements | Senses | System |
+| Level | Name | Color | Element | Bodies | Senses | System |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **SUPER CONSCIOUSNESS — SUN SPIRIT — ART** | | | | | | |
 | 10 | VOID | colorless | INFERNITY | primordial | timelessness | origin |

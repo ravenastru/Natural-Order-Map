@@ -2,19 +2,19 @@
 
 | Level | Name | Color | Element | Planet | Senses | Prime | Soul |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **SUPER CONSCIOUSNESS** | **SUN SPIRIT** | **ART** | — | — | — | primordial | timelessness |
-| **Level 10** | **VOID** | **colorless** | INFERNITY | — | — | transparent | eternity |
-| **Level 9** | **UNIVERSE** | **Transparent** | UNIVERSAL LOVE | THE UNIVERSE | — | galactic | family love |
-| **Level 8** | **GALAXY** | **Translucent** | GALACTIC LOVE | THE GALAXY | — | love | brain |
-| **Level 7** | **SUN** | **White** | LOVE | THE SUN | — | soul | intuition |
-| **CONSCIOUSNESS** | **MOON MIND** | **SONG** | — | — | — | etheric | sight |
-| **Level 6** | **MERCURY** | **Purple** | CONSCIOUSNESS | MERCURY | — | spiritual | sound |
-| **Level 5** | **VENUS** | **Blue** | ELECTRICITY | VENUS | — | mental | smell |
-| **Level 4** | **EARTH** | **Green** | AIR | EARTH | — | emotional | taste |
-| **Level 3** | **MARS** | **Yellow** | FIRE | MARS | — | physical | touch |
-| **Level 2** | **JUPITER** | **Orange** | WATER | JUPITER | — | instinct | muscular |
-| **Level 1** | **SATURN** | **red** | EARTH | SATURN | — | plant | vitality |
-| **SUB CONSCIOUSNESS** | **EARTH BODY** | **DANCE** | — | — | — | mineral | core |
-| **Level 0** | **URANUS** | **grey** | SKY | — | — | — | — |
-| **Level -1** | **NEPTUNE** | **brown** | OCEAN | — | — | — | — |
-| **Level -2** | **NIBIRU** | **black** | LAND | — | — | — | — |
+| **SUPER CONSCIOUSNESS** | **SUN SPIRIT** | **ART** | — | — | — | primordial | timelessness | origin |
+| **10** | **VOID** | colorless | INFERNITY | — | — | primordial | timelessness | origin |
+| **9** | **UNIVERSE** | Transparent | ETERNITY | UNIVERSAL LOVE | THE UNIVERSE | universal | cosmic love | source |
+| **8** | **GALAXY** | Translucent | INFINITY | GALACTIC LOVE | THE GALAXY | galactic | family love | halo |
+| **7** | **SUN** | White | LOVE | THE SUN | — | solar | soul love | brain |
+| **CONSCIOUSNESS** | **MOON MIND** | **SONG** | — | — | — | soul | intuition | endocrine |
+| **6** | **MERCURY** | Purple | CONSCIOUSNESS | MERCURY | — | soul | intuition | endocrine |
+| **5** | **VENUS** | Blue | ELECTRICITY | VENUS | — | etheric | sight | nervous |
+| **4** | **EARTH** | Green | AIR | EARTH | — | spiritual | sound | respiration |
+| **3** | **MARS** | Yellow | FIRE | MARS | — | mental | smell | digestive |
+| **2** | **JUPITER** | Orange | WATER | JUPITER | — | emotional | taste | circulation |
+| **1** | **SATURN** | red | EARTH | SATURN | — | physical | touch | reproductive |
+| **SUB CONSCIOUSNESS** | **EARTH BODY** | **DANCE** | — | — | — | animal | instinct | muscular |
+| **0** | **URANUS** | grey | SKY | — | — | animal | instinct | muscular |
+| **-1** | **NEPTUNE** | brown | OCEAN | — | — | plant | vitality | lymphatic |
+| **-2** | **NIBIRU** | black | LAND | — | — | mineral | core | skeletal |

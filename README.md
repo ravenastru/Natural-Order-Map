@@ -1,4 +1,4 @@
-```
+<pre>
 # Natural-Order-Map
 
 NATURAL ORDER - LEVELS OF CONSCIOUSNESS
@@ -17,5 +17,7 @@ CONSCIOUSNESS - MOON MIND - SONG
 SUB CONSCIOUSNESS - EARTH BODY - DANCE
  Level 0 | URANUS | grey | SKY | animal | instinct | muscular
  Level -1 | NEPTUNE | brown | OCEAN | plant | vitality | lymphatic
- Level -2 | NIBIRU | black | LAND | mineral | core | skeletal
-```
+ Level -2 | NIBIRU | black | LAND | mineral | core | 
+</pre>
+
+

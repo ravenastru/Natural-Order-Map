@@ -24,3 +24,4 @@
 | 0 | URANUS | grey | SKY | — | — | animal | instinct | muscular |
 | -1 | NEPTUNE | brown | OCEAN | — | — | plant | vitality | lymphatic |
 | -2 | NIBIRU | black | LAND | — | — | mineral | core | skeletal |
+
